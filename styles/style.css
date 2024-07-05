@@ -1,0 +1,9 @@
+.navigation li{
+    display: inline;
+    margin-right: 20px;
+    text-decoration: none;
+}
+.navigation a{
+    text-decoration: none;
+    color: black;
+}
